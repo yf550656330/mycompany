@@ -7,6 +7,6 @@ package com.mycompany.web;
  */
 public class UserController {
 	public void getUser(){
-		System.out.println("user...");
+		System.out.println("user...hello world");
 	}
 }
